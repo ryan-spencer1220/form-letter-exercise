@@ -1,0 +1,10 @@
+#postcard {
+  display: none;
+  border: 2px solid black;
+  padding: 25px;
+  margin-top: 50px;
+}
+
+body {
+  padding: 50px;
+}
